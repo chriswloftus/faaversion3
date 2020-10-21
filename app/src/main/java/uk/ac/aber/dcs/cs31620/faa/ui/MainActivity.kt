@@ -1,9 +1,14 @@
+/**
+ * The main activity for the app. Activates
+ * a Toolbar, NavigationDrawer and BottomNavigationView
+ * @author Chris Loftus
+ * @version 2
+ */
 package uk.ac.aber.dcs.cs31620.faa.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController

@@ -1,3 +1,8 @@
+/**
+ * Represents the cats page. Default template
+ * @author Chris Loftus
+ * @version 1
+ */
 package uk.ac.aber.dcs.cs31620.faa.ui.cats
 
 import android.os.Bundle
